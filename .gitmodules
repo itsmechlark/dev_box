@@ -1,3 +1,6 @@
 [submodule "cookbooks/chef-solrcloud"]
 	path = cookbooks/chef-solrcloud
 	url = https://github.com/vkhatri/chef-solrcloud.git
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = https://github.com/opscode-cookbooks/apt.git
