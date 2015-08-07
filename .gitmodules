@@ -16,3 +16,6 @@
 [submodule "cookbooks/postgresql"]
 	path = cookbooks/postgresql
 	url = https://github.com/hw-cookbooks/postgresql.git
+[submodule "cookbooks/java"]
+	path = cookbooks/java
+	url = https://github.com/agileorbit-cookbooks/java.git
